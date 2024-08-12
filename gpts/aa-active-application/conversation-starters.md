@@ -1,0 +1,4 @@
+- Verfasse eine Bewerbung für die Projektausschreibung in Deutsch.
+- Verfasse eine Bewerbung für die Projektausschreibung in Englisch.
+- Verfasse eine Antwort auf die Projektanfrage in Deutsch.
+- Verfasse eine Antwort auf die Projektanfrage in Englisch.
